@@ -56,8 +56,8 @@
 
 |  **Competition Name**               | **Languages**     | **Finding**                     |
 |--------------------------------------|-----------------|--------------------------------------|
-| Royco Protocol                       | Solidity        | Findings not yet public (3)          |
-| Zetachain Protocol                   | Solidity        | Findings not yet public (3)          |
+| Royco Protocol                       | Solidity        | 2 High, 1 Med          |
+| Zetachain Protocol                   | Solidity        | 3 Med         |
 
 ---
 
