@@ -1,5 +1,5 @@
 ## About Me
-I am a blockchain security researcher with extensive experience in public contests. I actively participate in various types of competitions, involving languages such as **Solidity**, **Rust**, **Cairo**, and **Solana**.
+ I am a blockchain security researcher with extensive experience in public contests. I actively participate in various types of competitions, involving languages such as **Solidity**, **Rust**, **Cairo**, and **Solana**.
 
 ## 🛡️ Security Portfolio
 
@@ -8,7 +8,6 @@ I am a blockchain security researcher with extensive experience in public contes
 #### 🎖️ Highlight
 - 🥉 **Third place in WOOFi Swap on Solana**
 
----
 
 #### 🔍 Code4rena
 **Profile**: [shaflow2](https://code4rena.com/@shaflow2)
@@ -30,7 +29,7 @@ I am a blockchain security researcher with extensive experience in public contes
 | AI Arena                              | Solidity        | 2 High, 2 Medium          |
 | Althea Liquid Infrastructure          | Solidity        | 1 High                    |
 
----
+
 
 #### 🔍 Sherlock
 **Profile**: [shaflow01](https://audits.sherlock.xyz/watson/shaflow01)
@@ -41,7 +40,7 @@ I am a blockchain security researcher with extensive experience in public contes
 | Flayer                               | Solidity        | 1 High                    |
 | Winnables Raffles                    | Solidity        | 2 High, 1 Medium          |
 
----
+
 
 #### 🔍 CodeHawks
 
@@ -51,7 +50,7 @@ I am a blockchain security researcher with extensive experience in public contes
 | Tadle                                | Solidity        | 3 High                    |
 | Zaros Part 1                         | Solidity        | 2 High                    |
 
----
+
 
 #### 🔍 Cantina
 
