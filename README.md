@@ -1,5 +1,5 @@
 ## About Me
-I am a blockchain security researcher with extensive experience in public contests. I actively participate in various competitions and have worked on projects involving multiple types, using languages such as Solidity, Cairo, and Solana.
+I am a blockchain security researcher with extensive experience in public contests. I actively participate in various competitions, involving languages such as Solidity, Cairo, and Solana.
 
 ## Security Portfolio
 ### Public Contest
