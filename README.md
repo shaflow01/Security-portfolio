@@ -13,10 +13,6 @@ I am a blockchain security researcher with extensive experience in public contes
 - 🥉 **Third place in Usual V1** (Stable, Solidity)
 - 🥉 **Third place in Orderly Solana Vault Contract** (Bridge, Solana)
 
-### Private Audit
-| **Name**             | **Type**             | **Languages**  | **Finding**         |
-|----------------------|----------------------|----------------|---------------------|
-| Gigaverse | GameFi | Solidity | Soon |
 
 #### 🔍 Code4rena
 **Profile**: [shaflow2](https://code4rena.com/@shaflow2)
