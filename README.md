@@ -12,6 +12,7 @@ I am a blockchain security researcher with extensive experience in public contes
 - 🥉 **Third place in Chakra** (Bridge, Cairo)
 - 🥉 **Third place in BakeFi Invitational** (ERC4626, Solidity)
 - 🥉 **Third place in Usual V1** (Stable, Solidity)
+- 🥉 **Chainlink Payment Abstraction**(Bridge, Solidity)
 
 
 
@@ -24,6 +25,8 @@ I am a blockchain security researcher with extensive experience in public contes
 | 🥈 BakeFi Mitigation Review        | ERC4626 |    Solidity      | private    |
 | 🥉 BakeFi Invitational        | ERC4626 |    Solidity      | private    |
 | Nibiru        | Cosmos |  Go        | 1 Medium    |
+| 🥉 Chainlink Payment Abstraction                | Abstraction | Solidity       | private            |
+| Chainlink                | Bridge | Solidity       | private              |
 | 🥉 Chakra        | Bridge |  Cairo        | 9 High, 2 Medium    |
 | Superposition        | DEX |  Rust        | 3 High, 3 Medium    |
 | Basin                | Stable | Solidity       | 1 High              |
