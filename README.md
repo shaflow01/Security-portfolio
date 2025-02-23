@@ -11,7 +11,6 @@ I am a blockchain security researcher with extensive experience in public contes
 - 🥉 **Third place in Orderly Solana Vault Contract** (Bridge, Solana)
 - 🥉 **Third place in Chakra** (Bridge, Cairo)
 - 🥉 **Third place in BakeFi Invitational** (ERC4626, Solidity)
-- 🥉 **Third place in vVv Launchpad - Investments & Token Distribution** (Vesting, Solidity)
 - 🥉 **Third place in Usual V1** (Stable, Solidity)
 
 
@@ -48,7 +47,7 @@ I am a blockchain security researcher with extensive experience in public contes
 |----------------------|----------------------|----------------|---------------------|
 | Debita Finance V3  | Lending | Solidity       | 1 High, 1 Medium              |
 | Ethos Network Social Contracts  | SocialFi | Solidity       | 2 Medium              |
-| 🥉 vVv Launchpad - Investments & Token Distribution | Vesting  | Solidity         |  1 High    |
+| 🥇 vVv Launchpad - Investments & Token Distribution | Vesting  | Solidity         |  1 High    |
 | 🥉 Usual V1 | Stable | Solidity         | 1 High    |
 | 🥉 Orderly Solana Vault Contract | Bridge | Solana         | 2 High    |
 | 🥉 WOOFi Swap on Solana | DEX | Solana         | 1 High, 1 Medium    |
