@@ -6,12 +6,14 @@ I am a blockchain security researcher with extensive experience in public contes
 ### 🏆 Public Contests
 
 #### 🎖️ Highlight
-- 🥉 **Third place in WOOFi Swap on Solana**
+- 🥈 **Second place in Pump Science** (Solana)
+- 🥉 **Third place in WOOFi Swap on Solana** (DEX, Solana)
+- 🥉 **Third place in Orderly Solana Vault Contract** (Bridge, Solana)
 - 🥉 **Third place in Chakra** (Bridge, Cairo)
 - 🥉 **Third place in BakeFi Invitational** (ERC4626, Solidity)
 - 🥉 **Third place in vVv Launchpad - Investments & Token Distribution** (Vesting, Solidity)
 - 🥉 **Third place in Usual V1** (Stable, Solidity)
-- 🥉 **Third place in Orderly Solana Vault Contract** (Bridge, Solana)
+
 
 
 #### 🔍 Code4rena
@@ -19,6 +21,8 @@ I am a blockchain security researcher with extensive experience in public contes
 
 | **Name**             | **Type**             | **Languages**  | **Finding**         |
 |----------------------|----------------------|----------------|---------------------|
+| 🥈 Pump Science       | Launch |    Solana      | 1 High, 1 Medium    |
+| 🥈 BakeFi Mitigation Review        | ERC4626 |    Solidity      | private    |
 | 🥉 BakeFi Invitational        | ERC4626 |    Solidity      | private    |
 | Nibiru        | Cosmos |  Go        | 1 Medium    |
 | 🥉 Chakra        | Bridge |  Cairo        | 9 High, 2 Medium    |
@@ -63,6 +67,7 @@ I am a blockchain security researcher with extensive experience in public contes
 
 | **Name**             | **Type**             | **Languages**  | **Finding**         |
 |----------------------|----------------------|----------------|---------------------|
+| Soon     |  Bridge + Infrastructure | rust + solidity + solana       |  2 High, 1 Medium    |
 | Tensor-competition      | Market | Solana       |  1 High    |
 | Omni Network Competition       | Cosmos | Solidity + Go       |  1 Medium    |
 | Primev Competition       | Mev | Solidity       | 2 High, 1 Medium    |
