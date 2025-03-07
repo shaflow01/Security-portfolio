@@ -69,6 +69,9 @@ I am a blockchain security researcher with extensive experience in public contes
 
 | **Name**             | **Type**             | **Languages**  | **Finding**         |
 |----------------------|----------------------|----------------|---------------------|
+| Chorus One     |  staking | Ton       |  1 Medium    |
+| Daao     |  fundraising | solidity       |  3 High    |
+| FarcasterAttestation   |  Attestation | solidit       |  4 High, 1 Medium    |
 | Soon     |  Bridge + Infrastructure | rust + solidity + solana       |  2 High, 1 Medium    |
 | Tensor-competition      | Market | Solana       |  1 High    |
 | Omni Network Competition       | Cosmos | Solidity + Go       |  1 Medium    |
