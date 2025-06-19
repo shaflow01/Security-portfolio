@@ -13,7 +13,7 @@ I am a blockchain security researcher with extensive experience in public contes
 - 🥉 **Third place in Chakra** (Bridge, Cairo)
 - 🥉 **Third place in BakeFi Invitational** (ERC4626, Solidity)
 - 🥉 **Third place in Usual V1** (Stable, Solidity)
-- 🥉 **Chainlink Payment Abstraction**(Bridge, Solidity)
+- 🥉 **Third place Chainlink Payment Abstraction**(Bridge, Solidity)
 
 
 
