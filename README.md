@@ -6,6 +6,7 @@ I am a blockchain security researcher with extensive experience in public contes
 ### 🏆 Public Contests
 
 #### 🎖️ Highlight
+- 🥇 **reserve-index-dtfs-solana** (Solana)
 - 🥈 **Second place in Pump Science** (Solana)
 - 🥉 **Third place in WOOFi Swap on Solana** (DEX, Solana)
 - 🥉 **Third place in Orderly Solana Vault Contract** (Bridge, Solana)
@@ -66,9 +67,10 @@ I am a blockchain security researcher with extensive experience in public contes
 | Zaros Part 1         | Perp | Solidity       | 2 High              |
 
 #### 🔍 Cantina
-
+**Profile**: [shaflow01](https://cantina.xyz/u/shaflow01)
 | **Name**             | **Type**             | **Languages**  | **Finding**         |
 |----------------------|----------------------|----------------|---------------------|
+| 🥇reserve-index-dtfs-solana     |  basket | Solana       |  7 High, 2 Medium    |
 | Chorus One     |  staking | Ton       |  1 Medium    |
 | Daao     |  fundraising | solidity       |  3 High    |
 | FarcasterAttestation   |  Attestation | solidit       |  4 High, 1 Medium    |
