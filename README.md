@@ -70,6 +70,7 @@ I am a blockchain security researcher with extensive experience in public contes
 **Profile**: [shaflow01](https://cantina.xyz/u/shaflow01)
 | **Name**             | **Type**             | **Languages**  | **Finding**         |
 |----------------------|----------------------|----------------|---------------------|
+| PumpSwap     |  AMM | Solana       |  1 low    |
 | 🥇reserve-index-dtfs-solana     |  basket | Solana       |  7 High, 2 Medium    |
 | Chorus One     |  staking | Ton       |  1 Medium    |
 | Daao     |  fundraising | solidity       |  3 High    |
@@ -82,6 +83,49 @@ I am a blockchain security researcher with extensive experience in public contes
 | Zetachain Protocol   | Bridge | Solidity       | 3 Medium            |
 
 ---
+
+### Private Audit
+#### Pashov Audit Group
+
+| Project | Type       |    language        |
+|---------|------------|------------|
+| Gigaverse    |    Game    |   solidity       |
+| BeamNodes    |    NFT    |   solidity       |
+| Pump    |    Launch    |   solana       |
+| Pump    |    AMM    |   solana       |
+| Hyperstable    |    CDP    |  solidity       |
+| FunUSD    |    LST    |  solidity       |
+| Noodles    |    SocialFi    |  solidity       |
+| Aria    |    vault    |  solidity       |
+| Resolv    |    vault    |  solidity       |
+| BTR    |    vault/staking    |  solana       |
+
+#### CODESPECT
+
+| Project | Type       |    language        |
+|---------|------------|------------|
+| TokenTable-Solana-UnlockerV2|   Distribution     |   solana       |
+| TokenTable-Solana-UnlockerV2-FollowUp-Merkle    |    Distribution    |   solana       |
+| TokenTable-UnlockerV2-EVM |    Distribution    |   solidity       |
+| TokenTable-ECDSA-Token-Distributor    |    Distribution    |   solidity       |
+| TokenTable-Solana-ECDSA    |   Distribution    |  solana       |
+| Swell-HyperLiquidForwarder  |    oracle    |  solidity       |
+| KapanFinance-Starknet |    Router    |  cairo       |
+#### Zenith
+
+| Project | Type       |    language        |
+|---------|------------|------------|
+| dinero |   staking     |   solana       |
+
+#### Accretion
+| Project | Type       |    language        |
+|---------|------------|------------|
+| ellipsis-launch |   launch     |   solana       | 
+
+
+
+
+
 
 ## Connect with Me
 - Twitter: [shaflow01](https://x.com/shaflow01)
