@@ -84,7 +84,10 @@ I am a blockchain security researcher with extensive experience in public contes
 
 ---
 
+
 ### Private Audit
+
+
 #### Pashov Audit Group
 
 | Project | Type       |    language        |
