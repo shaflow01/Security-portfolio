@@ -90,35 +90,36 @@ I am a blockchain security researcher with extensive experience in public contes
 
 #### Pashov Audit Group
 
-| Project | Type       |    language        |
-|---------|------------|------------|
-| Gigaverse    |    Game    |   solidity       |
-| BeamNodes    |    NFT    |   solidity       |
-| Pump    |    Launch    |   solana       |
-| Pump    |    AMM    |   solana       |
-| Hyperstable    |    CDP    |  solidity       |
-| FunUSD    |    LST    |  solidity       |
-| Noodles    |    SocialFi    |  solidity       |
-| Aria    |    vault    |  solidity       |
-| Resolv    |    vault    |  solidity       |
-| BTR    |    vault/staking    |  solana       |
+| Project | Type       |    language        | report |
+|---------|------------|------------|------------|
+| Gigaverse    |    Game    |   solidity       |[link](https://github.com/pashov/audits/blob/master/team/pdf/Gigaverse-security-review_2025-01-18.pdf) |
+| BeamNodes    |    NFT    |   solidity       |[link](https://github.com/pashov/audits/blob/master/team/pdf/BeamNodes-security-review_2025-01-28.pdf)|
+| Pump    |    Launch    |   solana       |Private|
+| Pump    |    AMM    |   solana       |Private|
+| Hyperstable    |    CDP    |  solidity |  [link](https://github.com/pashov/audits/blob/master/team/pdf/Hyperstable-security-review_2025-02-26.pdf)    |
+| FunUSD    |    LST    |  solidity       | Not Public|
+| Pump    |    Launch    |   solana       |Private|
+| Noodles    |    SocialFi    |  solidity  | Not Public   |
+| Aria    |    vault    |  solidity       |Not Public|
+| Resolv    |    vault    |  solidity      | Not Public|
+| BTR    |    vault/staking    |  solana    | Not Public  |
 
 #### CODESPECT
 
-| Project | Type       |    language        |
-|---------|------------|------------|
-| TokenTable-Solana-UnlockerV2|   Distribution     |   solana       |
-| TokenTable-Solana-UnlockerV2-FollowUp-Merkle    |    Distribution    |   solana       |
-| TokenTable-UnlockerV2-EVM |    Distribution    |   solidity       |
-| TokenTable-ECDSA-Token-Distributor    |    Distribution    |   solidity       |
-| TokenTable-Solana-ECDSA    |   Distribution    |  solana       |
-| Swell-HyperLiquidForwarder  |    oracle    |  solidity       |
-| KapanFinance-Starknet |    Router    |  cairo       |
+| Project | Type       |    language        |report |
+|---------|------------|------------|------------|
+| TokenTable-Solana-UnlockerV2|   Distribution     |   solana       | [link](https://github.com/CODESPECT-security/audit-reports/blob/main/011_CODESPECT_TOKENTABLE_SOLANA_MERKLE_AIRDROP.pdf)|
+| TokenTable-Solana-UnlockerV2-FollowUp-Merkle    |    Distribution    |   solana       |[link](https://github.com/CODESPECT-security/audit-reports/blob/main/011_CODESPECT_TOKENTABLE_SOLANA_UNLOCKER_V2_FOLLOW_UP.pdf)|
+| TokenTable-ECDSA-Token-Distributor    |    Distribution    |   solidity |  [link](https://github.com/CODESPECT-security/audit-reports/blob/main/015_CODESPECT_TOKENTABLE_ECDSA_DISTRIBUTOR.pdf)    |
+| TokenTable-Solana-ECDSA    |   Distribution    |  solana       |[link](https://github.com/CODESPECT-security/audit-reports/blob/main/019_CODESPECT_TOKENTABLE_SOLANA_EDDSA.pdf)|
+| Swell-HyperLiquidForwarder  |    oracle    |  solidity       |Not Public|
+| KapanFinance-Starknet |    Router    |  cairo       |Not Public|
 #### Zenith
 
 | Project | Type       |    language        |
 |---------|------------|------------|
 | dinero |   staking     |   solana       |
+| fluid |   lending     |   solana       |
 
 #### Accretion
 | Project | Type       |    language        |
