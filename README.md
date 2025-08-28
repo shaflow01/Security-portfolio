@@ -6,7 +6,8 @@ I am a blockchain security researcher with extensive experience in public contes
 ### 🏆 Public Contests
 
 #### 🎖️ Highlight
-- 🥇 **reserve-index-dtfs-solana** (Solana)
+- 🥇 **First place in reserve-index-dtfs-solana** (Solana)
+- 🥇 **First place in Paradex** (Cairo)
 - 🥈 **Second place in Pump Science** (Solana)
 - 🥉 **Third place in WOOFi Swap on Solana** (DEX, Solana)
 - 🥉 **Third place in Orderly Solana Vault Contract** (Bridge, Solana)
@@ -82,6 +83,11 @@ I am a blockchain security researcher with extensive experience in public contes
 | Royco Protocol       | Vault | Solidity       | 2 High, 1 Medium    |
 | Zetachain Protocol   | Bridge | Solidity       | 3 Medium            |
 
+#### 🔍 Immunefi
+**Profile**: [shaflow1]([https://cantina.xyz/u/shaflow01](https://immunefi.com/profile/shaflow1/))
+| **Name**             | **Type**             | **Languages**  | **Finding**         |
+|----------------------|----------------------|----------------|---------------------|
+| 🥇reserve-index-dtfs-solana     |  basket | Solana       |  2 crtical, 2 medium, 3 Low, 5 Insights|
 ---
 
 
@@ -103,6 +109,7 @@ I am a blockchain security researcher with extensive experience in public contes
 | Aria    |    vault    |  solidity       |Not Public|
 | Resolv    |    vault    |  solidity      | Not Public|
 | BTR    |    vault/staking    |  solana    | Not Public  |
+
 
 #### CODESPECT
 
