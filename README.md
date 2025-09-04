@@ -84,7 +84,7 @@ I am a blockchain security researcher with extensive experience in public contes
 | Zetachain Protocol   | Bridge | Solidity       | 3 Medium            |
 
 #### 🔍 Immunefi
-**Profile**: [shaflow1](https://cantina.xyz/u/shaflow01](https://immunefi.com/profile/shaflow1/)
+**Profile**: [shaflow1](https://immunefi.com/profile/shaflow1/)
 | **Name**             | **Type**             | **Languages**  | **Finding**         |
 |----------------------|----------------------|----------------|---------------------|
 | 🥇Paradex     |  perp | Cairo       |  2 crtical, 2 medium, 3 Low, 5 Insights|
@@ -109,6 +109,9 @@ I am a blockchain security researcher with extensive experience in public contes
 | Aria    |    vault    |  solidity       |Not Public|
 | Resolv    |    vault    |  solidity      | Not Public|
 | BTR    |    vault/staking    |  solana    | Not Public  |
+| Starknet Staking   |    staking    |  cairo    | [link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf)  |
+| Elixir   |    Stable    |  sui    |  Not Public |
+
 
 
 #### CODESPECT
@@ -119,8 +122,9 @@ I am a blockchain security researcher with extensive experience in public contes
 | TokenTable-Solana-UnlockerV2-FollowUp-Merkle    |    Distribution    |   solana       |[link](https://github.com/CODESPECT-security/audit-reports/blob/main/011_CODESPECT_TOKENTABLE_SOLANA_UNLOCKER_V2_FOLLOW_UP.pdf)|
 | TokenTable-ECDSA-Token-Distributor    |    Distribution    |   solidity |  [link](https://github.com/CODESPECT-security/audit-reports/blob/main/015_CODESPECT_TOKENTABLE_ECDSA_DISTRIBUTOR.pdf)    |
 | TokenTable-Solana-ECDSA    |   Distribution    |  solana       |[link](https://github.com/CODESPECT-security/audit-reports/blob/main/019_CODESPECT_TOKENTABLE_SOLANA_EDDSA.pdf)|
-| Swell-HyperLiquidForwarder  |    oracle    |  solidity       |Not Public|
+| Swell-HyperLiquidForwarder  |    oracle    |  solidity       |[link](https://github.com/CODESPECT-security/audit-reports/blob/main/024_CODESPECT_HYPERWAVE_SOLVER_OFF_CHAIN_BOT.pdf)|
 | KapanFinance-Starknet |    Router    |  cairo       |Not Public|
+| TokenTable |    Distribution    |  sui       |[link](https://github.com/CODESPECT-security/audit-reports/blob/main/029_CODESPECT_TOKENTABLE_SUI.pdf)|
 #### Zenith
 
 | Project | Type       |    language        |
