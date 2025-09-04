@@ -84,7 +84,7 @@ I am a blockchain security researcher with extensive experience in public contes
 | Zetachain Protocol   | Bridge | Solidity       | 3 Medium            |
 
 #### 🔍 Immunefi
-**Profile**: [shaflow1]([https://cantina.xyz/u/shaflow01](https://immunefi.com/profile/shaflow1/))
+**Profile**: [shaflow1](https://cantina.xyz/u/shaflow01](https://immunefi.com/profile/shaflow1/)
 | **Name**             | **Type**             | **Languages**  | **Finding**         |
 |----------------------|----------------------|----------------|---------------------|
 | 🥇Paradex     |  perp | Cairo       |  2 crtical, 2 medium, 3 Low, 5 Insights|
