@@ -127,10 +127,10 @@ I am a blockchain security researcher with extensive experience in public contes
 | TokenTable |    Distribution    |  sui       |[link](https://github.com/CODESPECT-security/audit-reports/blob/main/029_CODESPECT_TOKENTABLE_SUI.pdf)|
 #### Zenith
 
-| Project | Type       |    language        |
-|---------|------------|------------|
-| dinero |   staking     |   solana       |
-| fluid |   lending     |   solana       |
+| Project | Type       |    language        |report|
+|---------|------------|------------|------------|
+| dinero |   staking     |   solana       | |
+| fluid |   lending     |   solana       | [link](https://github.com/zenith-security/reports/blob/main/reports/Fluid%20-%20Zenith%20Audit%20Report.pdf) |
 
 #### Accretion
 | Project | Type       |    language        |
