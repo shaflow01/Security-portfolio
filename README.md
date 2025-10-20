@@ -129,7 +129,7 @@ I am a blockchain security researcher with extensive experience in public contes
 
 | Project | Type       |    language        |report|
 |---------|------------|------------|------------|
-| dinero |   staking     |   solana       | |
+| dinero |   staking     |   solana       | [link](https://github.com/zenith-security/reports/blob/main/reports/Dinero%20-%20Zenith%20Audit%20Report.pdf)|
 | fluid |   lending     |   solana       | [link](https://github.com/zenith-security/reports/blob/main/reports/Fluid%20-%20Zenith%20Audit%20Report.pdf) |
 
 #### Accretion
