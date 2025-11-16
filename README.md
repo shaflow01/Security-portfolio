@@ -133,6 +133,8 @@ I am a blockchain security researcher with extensive experience in public contes
 | TokenTable | Distribution | move | CODESPECT | [link](https://github.com/CODESPECT-security/audit-reports/blob/main/029_CODESPECT_TOKENTABLE_SUI.pdf) |
 | Elixir | Stable | move | Pashov | Not Public |
 
+---
+
 #### Solidity
 
 | Project | Type | Language | Company | Report |
@@ -147,7 +149,6 @@ I am a blockchain security researcher with extensive experience in public contes
 | Gigaverse | Game | solidity | Pashov | [link](https://github.com/pashov/audits/blob/master/team/pdf/Gigaverse-security-review_2025-01-18.pdf) |
 | BeamNodes | NFT | solidity | Pashov | [link](https://github.com/pashov/audits/blob/master/team/pdf/BeamNodes-security-review_2025-01-28.pdf) |
 
----
 
 
 
