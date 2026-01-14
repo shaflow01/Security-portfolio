@@ -53,7 +53,8 @@ I am a blockchain security researcher with extensive experience in public contes
 
 | Project | Type | Language | Company | Report |
 |--------|------|----------|---------|--------|
-| abyss | vault | move | ThreeSigma | Pending |
+| deepbook | DEX | move | Zenith | Pending |
+| abyss | Vault | move | ThreeSigma | Pending |
 | TokenTable | Distribution | move | CODESPECT | [link](https://github.com/CODESPECT-security/audit-reports/blob/main/029_CODESPECT_TOKENTABLE_SUI.pdf) |
 | Elixir | Stable | move | Pashov | Not Public |
 
