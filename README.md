@@ -17,7 +17,7 @@ I am a blockchain security researcher with extensive experience in public contes
 ---
 ### Bug Bounty
 | Severity | Project | Platform | State|Date |
-|---|---|---|---|
+|---|---|---|---|---|
 | Medium | Orca | Immunefi | Paid | Jul 2026 |
 | Low | Undisclosed | Hackerproof | Paid | May 2026 |
 ### Private Audit
