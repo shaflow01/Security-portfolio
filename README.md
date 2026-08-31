@@ -28,6 +28,9 @@ I am a blockchain security researcher with extensive experience in public contes
 
 | Project | Type | Language | Company | Report |
 |--------|------|----------|---------|--------|
+| Meteora Dlmm | Dex | solana | Zenith | Pending |
+| alien-id solana bridge program | bridge | solana | Zenith | Pending |
+| alien-id | auction | solana | Zenith | Pending |
 | dinero | staking | solana | Zenith | [link](https://github.com/zenith-security/reports/blob/main/reports/Dinero%20-%20Zenith%20Audit%20Report.pdf) |
 | fluid | lending | solana | Zenith | [link](https://github.com/zenith-security/reports/blob/main/reports/Fluid%20-%20Zenith%20Audit%20Report.pdf) |
 | pyron | lending | solana | Zenith | [link](https://github.com/zenith-security/reports/blob/main/reports/Pyron%20-%20Zenith%20Audit%20Report.pdf) |
@@ -87,6 +90,7 @@ I am a blockchain security researcher with extensive experience in public contes
 #### Off chain
 | Project | Type | Language | Company | Report |
 |--------|------|----------|---------|--------|
+| alien-id enclaved bridge | bridge | Go | Zenith | Pending |
 | Swell-OffChainBot | Bot | python | CODESPECT | [link](https://github.com/CODESPECT-security/audit-reports/blob/main/024_CODESPECT_HYPERWAVE_SOLVER_OFF_CHAIN_BOT.pdf) |
 
 ---
