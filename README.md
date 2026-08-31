@@ -32,7 +32,7 @@ I am a blockchain security researcher with extensive experience in public contes
 | alien-id solana bridge program | bridge | solana | Zenith | Pending |
 | alien-id | auction | solana | Zenith | Pending |
 | dinero | staking | solana | Zenith | [link](https://github.com/zenith-security/reports/blob/main/reports/Dinero%20-%20Zenith%20Audit%20Report.pdf) |
-| fluid | lending | solana | Zenith | [link](https://github.com/zenith-security/reports/blob/main/reports/Fluid%20-%20Zenith%20Audit%20Report.pdf) |
+| Jupiter fluid | lending | solana | Zenith | [link](https://github.com/zenith-security/reports/blob/main/reports/Fluid%20-%20Zenith%20Audit%20Report.pdf) |
 | pyron | lending | solana | Zenith | [link](https://github.com/zenith-security/reports/blob/main/reports/Pyron%20-%20Zenith%20Audit%20Report.pdf) |
 | VNX | staking | solana | Zenith | Pending |
 | Canopy | Investment platform | solana | CODESPECT | [link](https://github.com/CODESPECT-security/audit-reports/blob/main/045_CODESPECT_CANOPY.pdf) |
