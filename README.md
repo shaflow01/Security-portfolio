@@ -7,6 +7,7 @@ I am a blockchain security researcher with extensive experience in public contes
 - 🥇 **First place in reserve-index-dtfs-solana** (Solana)
 - 🥇 **First place in Paradex** (Cairo)
 - 🥈 **Second place in Pump Science** (Solana)
+- 🥈 **Second place in Vechain** (Solidity/Go)
 - 🥉 **Third place in WOOFi Swap on Solana** (DEX, Solana)
 - 🥉 **Third place in Orderly Solana Vault Contract** (Bridge, Solana)
 - 🥉 **Third place in Chakra** (Bridge, Cairo)
